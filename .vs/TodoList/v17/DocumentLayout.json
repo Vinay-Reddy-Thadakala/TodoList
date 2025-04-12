@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|d:\\todolist\\todolist\\shared\\todoitemform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|solutionrelative:todolist\\shared\\todoitemform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|d:\\todolist\\todolist\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|solutionrelative:todolist\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|d:\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|d:\\todolist\\todolist\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|solutionrelative:todolist\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|d:\\todolist\\todolist\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|solutionrelative:todolist\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|d:\\todolist\\todolist\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF808E9-E822-4B94-ADD3-93CA5415FBE1}|TodoList\\TodoList.csproj|solutionrelative:todolist\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemForm.razor",
+              "DocumentMoniker": "D:\\TodoList\\TodoList\\Shared\\TodoItemForm.razor",
+              "RelativeDocumentMoniker": "TodoList\\Shared\\TodoItemForm.razor",
+              "ToolTip": "D:\\TodoList\\TodoList\\Shared\\TodoItemForm.razor",
+              "RelativeToolTip": "TodoList\\Shared\\TodoItemForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T06:55:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\TodoList\\TodoList\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoList\\Services\\TodoService.cs",
+              "ToolTip": "D:\\TodoList\\TodoList\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoList\\Services\\TodoService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:42:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "D:\\TodoList\\TodoList\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoList\\Services\\ITodoService.cs",
+              "ToolTip": "D:\\TodoList\\TodoList\\Services\\ITodoService.cs",
+              "RelativeToolTip": "TodoList\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:38:25.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\TodoList\\TodoList\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoList\\TodoItem.cs",
+              "ToolTip": "D:\\TodoList\\TodoList\\TodoItem.cs",
+              "RelativeToolTip": "TodoList\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:14:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TodoList\\TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList\\Program.cs",
+              "ToolTip": "D:\\TodoList\\TodoList\\Program.cs",
+              "RelativeToolTip": "TodoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:12:24.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\TodoList\\TodoList\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "TodoList\\Pages\\Index.razor",
+              "ToolTip": "D:\\TodoList\\TodoList\\Pages\\Index.razor",
+              "RelativeToolTip": "TodoList\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T06:10:58.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
